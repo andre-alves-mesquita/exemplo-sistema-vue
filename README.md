@@ -59,6 +59,36 @@ $ npm server.js
 # Utilizando outro terminal rode o Vue
 $ npm run dev
 ```
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+
+### Autor
+---
+
+
+
+
+<a href="https://andre-alves-mesquita.github.io/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47260233?s=400&u=e7dca57b5e53b7a7e8fba51f1e0b5049dbcf20dd&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>André A Mesquita</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+
+
+Feito com ❤️ por André A Mesquita 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-André%20A%20Mesquita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-alves-mesquita-dev-php/)](https://www.linkedin.com/in/andre-alves-mesquita-dev-php/) 
+[![Gmail Badge](https://img.shields.io/badge/-andre20mesquita@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andre20mesquita@gmail.com)](mailto:andre20mesquita@gmail.com)
+
 </div>
+
 
 
