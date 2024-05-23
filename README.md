@@ -22,6 +22,7 @@
 Projeto feito para ser um repositorio de conhecimento sobre vue, utilizado para consulta e irá ser atualizado sempre que ouver uma nova forma/funcionalidade aprendida sobre vue
 </h5>
 
+<div align="left">
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
@@ -57,5 +58,7 @@ $ npm server.js
 
 # Utilizando outro terminal rode o Vue
 $ npm run dev
+```
+</div>
 
 
