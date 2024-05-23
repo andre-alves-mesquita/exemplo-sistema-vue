@@ -1,6 +1,7 @@
 
+<div align="center">
 <img src="./front-vue/src/assets/img/vuejs-online-editor-compiler.original.png" width="300" >
-
+</div>
 <br>
 
 <div align="center">
@@ -17,8 +18,6 @@
 <h4 align="center"> 
 	🚧  Projeto Vue 🚀 em construção...  🚧 
 </h4>
-
-<br>
 <h5>
 Projeto feito para ser um repositorio de conhecimento sobre vue, utilizado para consulta e irá ser atualizado sempre que ouver uma nova forma/funcionalidade aprendida sobre vue
 </h5>
