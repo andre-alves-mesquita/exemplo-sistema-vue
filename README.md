@@ -2,13 +2,13 @@
 <img src="./front-vue/src/assets/img/vuejs-online-editor-compiler.original.png" width="300" >
 
 <br>
-<img src="https://img.shields.io/static/v1?label=Vue&message=v3&color=4FC08D&style=<STYLE>&logo=vuedotjs">
 
-<img src="https://img.shields.io/static/v1?label=Express&message=v4&color=000000&style=<STYLE>&logo=express">
+  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Vuejs-v3.4.21-%2304D361?style=plano&logo=vuedotjs">
 
-<img src="https://img.shields.io/static/v1?label=Licence&message=MIT&color=0778B9&style=<STYLE>&logo=">
+ <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Express-v4.19.2-000000?style=plano&logo=express">
 
-![Badge](https://img.shields.io/badge/Vuejs-v3-%237159c1?style=for-the-badge&logo=vuedotjs)
+  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Express-v20.11.1-5FA04E?style=plano&logo=nodedotjs">
+
 
 
 <h1 align="center">Exemplo sistema Vue</h1>
