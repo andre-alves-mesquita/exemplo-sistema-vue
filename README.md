@@ -5,15 +5,18 @@
 <br>
 
 <div align="center">
-
  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Node-v20.11.1-5FA04E?style=plano&logo=nodedotjs"> <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Vuejs-v3.4.21-%2304D361?style=plano&logo=vuedotjs"> <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Express-v4.19.2-000000?style=plano&logo=express">
-
-  
 <div>
+<br>
+<p align="center">
+ <a href="#objetivo">Objetivo</a> •
+ <a href="#prerequisitos">Pré-requisitos</a> • 
+ <a href="#instalacao">Instalação</a> • 
+ <a href="#Tecnologias">Tecnologias</a> •  
+ <a href="#Autor">Autor</a>
+</p>
 
-
-
-<h1 align="center">Exemplo sistema Vue</h1>
+<h1 align="center" id="objetivo">Exemplo sistema Vue</h1>
 
 <h4 align="center"> 
 	🚧  Projeto Vue 🚀 em construção...  🚧 
@@ -23,15 +26,19 @@ Projeto feito para ser um repositorio de conhecimento sobre vue, utilizado para 
 </h5>
 <br>
 
-<div align="left">
+<div align="left" id="prerequisitos">
+
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o projeto
+</div>
 
+<div align="left" id="instalacao">
+
+### 🎲 Instalando o projeto
 ```bash
 # Clone este repositório
 $ git clone https://github.com/andre-alves-mesquita/exemplo-sistema-vue
@@ -61,6 +68,10 @@ $ npm server.js
 $ npm run dev
 ```
 
+</div>
+
+<div id="Tecnologias" align="left">
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -69,13 +80,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Vue](https://vuejs.org/)
 - [Express](https://expressjs.com/pt-br/)
 - [TypeScript](https://www.typescriptlang.org/)
+</div>
 
+<div id="Autor" align="left">
 
 ### Autor
 ---
-
-
-
 
 <a href="https://andre-alves-mesquita.github.io/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47260233?s=400&u=e7dca57b5e53b7a7e8fba51f1e0b5049dbcf20dd&v=4" width="100px;" alt=""/>
