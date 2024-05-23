@@ -24,7 +24,6 @@
 <h5>
 Projeto feito para ser um repositorio de conhecimento sobre vue, utilizado para consulta e irá ser atualizado sempre que ouver uma nova forma/funcionalidade aprendida sobre vue
 </h5>
-<br>
 
 <div align="left" id="prerequisitos">
 
