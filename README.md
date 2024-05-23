@@ -22,3 +22,40 @@
 Projeto feito para ser um repositorio de conhecimento sobre vue, utilizado para consulta e irá ser atualizado sempre que ouver uma nova forma/funcionalidade aprendida sobre vue
 </h5>
 
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+### 🎲 Rodando o Back End (servidor)
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/andre-alves-mesquita/exemplo-sistema-vue
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd exemplo-sistema-vue
+
+# Vá para a pasta backend
+$ cd backend
+
+# Instale as dependências
+$ npm install
+
+# Volte para raiz do projeto
+$ cd ..
+
+# Vá para a pasta front-vue
+$ cd front-vue
+
+# Instale as dependências
+$ npm install
+
+# Após atualizar as dependências entre na pasta backend e rode o servidor
+$ npm server.js
+
+# Utilizando outro terminal rode o Vue
+$ npm run dev
+
+
